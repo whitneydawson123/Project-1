@@ -2,6 +2,7 @@
 
 ## Description
 This project is a meme generator using a third party API to help generate a meme!
+The technologies used for this project were gifpy.com(API), Javascript, HTML, and CSS.
 
 ## Mock Up
 
